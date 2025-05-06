@@ -10,3 +10,5 @@ Launch it with:
 
 docker compose up
 
+
+**Note: By default this runner builds a docker image with dotnet installed. Edit the Dockerfile if you need a different build system or need to pre-install other things.
